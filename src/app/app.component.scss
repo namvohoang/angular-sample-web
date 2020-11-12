@@ -1,0 +1,27 @@
+.box {
+  width: 50px;
+  height: 50px;
+  position: relative;
+  top: 0;
+  left: 0;
+  background-color: black;
+  transition: 0.5s linear;
+}
+
+.error {
+  color: red;
+}
+
+form {
+  display: inline-block;
+}
+
+label, input {
+  display: block;
+  margin: 5px 0;
+  text-align: left;
+}
+
+.speed {
+  text-align: center;
+}
